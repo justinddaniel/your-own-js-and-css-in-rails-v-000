@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-#Works as designed by capybara does not recognize it. 
+#Works as designed by capybara does not recognize it.
 
 #feature "Hide Link", :js => true do
 #  scenario "Clicking on 'Click To Hide Me' hides itself" do
