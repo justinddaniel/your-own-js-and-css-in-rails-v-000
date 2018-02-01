@@ -8,4 +8,4 @@ require 'rails_helper'
 #    click_link 'Click To Hide Me'
 #    expect(page).not_to have_content 'Click To Hide Me'
 #  end
-end
+#end
